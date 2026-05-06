@@ -1,6 +1,9 @@
+
 # 🌿 Mỹ Thủ AI - The Hybrid Nail Sanctuary
 
-**Tác giả:** [Tên của bạn]
+![MyThu AI Banner](AI-Hybrid-Nail.png)
+
+**Tác giả:** Đặng Nguyên Cường
 **Lĩnh vực:** Nail Art & AI Integration
 **Slogan:** "Bàn tay nghệ nhân - Trí tuệ máy móc"
 
